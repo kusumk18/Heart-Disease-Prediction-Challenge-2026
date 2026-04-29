@@ -14,7 +14,7 @@ HOW TO USE:
 """
 
 # ── STEP 0: Change this to your group number! ──────────────────────────────
-GROUP = "group1"   # ← e.g. "group3", "group7", etc.
+GROUP = "C4"   # ← e.g. "group3", "group7", etc.
 # ───────────────────────────────────────────────────────────────────────────
 
 
